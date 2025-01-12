@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+env/
+
+# Node
+node_modules/
+
+# Sensitive files
+*.env
